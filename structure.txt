@@ -1,0 +1,10 @@
+// Board - Color, Bricks stuff...
+// Ball - Loc(x,y) , Color , Direction , (vx,vy)
+// Bar - (left , Right) , vx (To test for automate movement)
+// 
+
+
+
+// Future Ideas
+// hard and soft bricks
+// multiple balls
